@@ -55,9 +55,10 @@
 	<ul>
 		<li><center><img src="http://localhost/ecomm/wp-content/uploads/2021/03/Rampa-Maharlika.jpg" width="120" height="70"></center></li>
 		<li><center><h1>Rampa Maharlika</h1></center></li>
-		<li><a href="http://localhost/ecomm/" style="margin-left: 720px;">Home</a></li>
+		<li><a href="http://localhost/ecomm/" style="margin-left: 620px;">Home</a></li>
 		<li><a href="http://localhost/ecomm/about/">About</a></li>
 		<li><a href="http://localhost/ecomm/contact/">Contact</a></li>
+		<li><a href="http://localhost/ecomm/shop/">Shop</a></li>
 	</ul>
 	<div class="contact">
   		<img src="http://localhost/ecomm/wp-content/uploads/2021/04/bg.jpg" style="width:100%;">
